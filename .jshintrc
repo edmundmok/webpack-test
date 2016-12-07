@@ -1,0 +1,13 @@
+{
+  "camelcase": true,
+  "curly": true,
+  "eqeqeq": true,
+  "undef": true,
+  "unused": true,
+  "browser": true,
+  "jquery": true,
+  "mocha": true,
+  "node": true,
+  "devel": true,
+  "esversion": 6
+}
